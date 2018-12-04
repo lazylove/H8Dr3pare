@@ -11,7 +11,7 @@ body {
     display: grid;
     /* grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); */
     grid-template-columns: 400px;
-    grid-template-rows: 200px;
+    grid-template-rows: 100px;
     grid-gap: 10px;
     justify-content: center;
     text-align: center;
@@ -91,7 +91,7 @@ body {
 }
 
 .h2x {
-    font-size: 120%;
+    font-size: 100%;
 }
 
 
